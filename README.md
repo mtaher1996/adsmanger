@@ -1,7 +1,7 @@
 
 # Ads Manger
 
-there are 2 files attached with project 
+there are 2 files attached with the project 
 
 
 
